@@ -25,6 +25,6 @@ Tools like OWASP Dependency Check, Java Keytool for certificate generation, and 
 
 # Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
-For any future employers I plan on showcasing the completed projects within this course such as the secure software report and the knowledge and skills I've obtained along the way such as, 
-learning mitigating techniques with software, static testing, implementing encryption which I've done in my projects and assignments. 
+For any future employers I plan on showcasing the knowledge and skills I've obtained along the way such as, 
+learning mitigating techniques with software, static testing, and implementing encryption.
 
