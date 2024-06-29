@@ -4,9 +4,9 @@
 
 Artemis Financial is a consulting company that develops individualized financial plans for customers. They needed to modernize their operations with enhanced software security, specifically by adding a file verification step to ensure secure communications using checksums during data transfers.
 
-# What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being? 
+# What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well being? 
 
-I successfully identified and addressed software security vulnerabilities by implementing encryption and secure communication protocols. Coding securely is particularly important to prevent data breaches and maintain client trust. Enhanced security contributes to the company's overall well-being by protecting sensitive information and reducing legal and financial risks.
+I successfully identified and addressed software security vulnerabilities by implementing encryption and secure communication protocols. Coding securely is particularly important to prevent data breaches and maintain client trust. Enhanced security contributes to the company's overall well being by protecting sensitive information and reducing legal and financial risks.
 
 # Which part of the vulnerability assessment was challenging or helpful to you?
 
@@ -26,5 +26,5 @@ Tools like OWASP Dependency Check, Java Keytool for certificate generation, and 
 Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
 For any future employers I plan on showcasing the completed projects within this course such as the secure software report and the knowledge and skills I've obtained along the way such as, 
-learning mitigating techniques with software, static testing, implementing encryption which I've done in my project and assignments. 
+learning mitigating techniques with software, static testing, implementing encryption which I've done in my projects and assignments. 
 
