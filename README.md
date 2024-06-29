@@ -1,5 +1,6 @@
-#  Artemis Financial Practices for Secure Software Report
-##Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address? 
+**#  Artemis Financial Practices for Secure Software Report
+
+**# Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address? 
 
 Artemis Financial is a consulting company that develops individualized financial plans for customers. They needed to modernize their operations with enhanced software security, specifically by adding a file verification step to ensure secure communications using checksums during data transfers.
 
