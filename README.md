@@ -14,7 +14,7 @@ The most challenging part was ensuring the encryption and secure communication w
 
 # How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use? 
 
-I increased security layers by implementing AES 256 encryption, generating self signed certificates, and converting HTTP to HTTPS. In the future, I would use tools like OWASP Dependency-Check, static code analyzers, and regular security audits to assess vulnerabilities and decide on mitigation techniques.
+I increased security layers by implementing AES 256 encryption, generating self signed certificates, and converting HTTP to HTTPS. In the future, I would use tools like OWASP Dependency Check, static code analyzers, and regular security audits to assess vulnerabilities and decide on mitigation techniques.
 
 # How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 
